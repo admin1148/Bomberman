@@ -1,0 +1,21 @@
+apply plugin: "java"
+
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+sourceSets.main.java.srcDirs = [ "src/" ]
+sourceSets.main.resources.srcDirs= ["resources/"]
+sourceSets.test.java.srcDirs=["test/"]
+
+eclipse.project {
+    name = appName + "-core"
+}
+javadoc{
+    options {
+        failOnError = false
+        encoding "UTF-8"
+        docEncoding "UTF-8"
+        charSet "UTF-8"
+        linkSource true
+        author true
+    }
+}

@@ -1,0 +1,55 @@
+
+side.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Creep_S_f00
+  rotate: false
+  xy: 2, 2
+  size: 39, 48
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+Creep_S_f01
+  rotate: false
+  xy: 43, 2
+  size: 39, 48
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+Creep_S_f02
+  rotate: false
+  xy: 84, 2
+  size: 39, 48
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+Creep_S_f03
+  rotate: false
+  xy: 125, 2
+  size: 39, 48
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+Creep_S_f04
+  rotate: false
+  xy: 166, 2
+  size: 39, 48
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+Creep_S_f05
+  rotate: false
+  xy: 207, 2
+  size: 39, 48
+  orig: 64, 64
+  offset: 13, 6
+  index: -1
+Creep_S_f06
+  rotate: false
+  xy: 248, 2
+  size: 39, 48
+  orig: 64, 64
+  offset: 13, 6
+  index: -1

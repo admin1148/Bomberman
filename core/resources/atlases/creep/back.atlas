@@ -1,0 +1,48 @@
+
+back.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Creep_B_f00
+  rotate: false
+  xy: 2, 2
+  size: 49, 48
+  orig: 64, 64
+  offset: 7, 6
+  index: -1
+Creep_B_f03
+  rotate: false
+  xy: 2, 2
+  size: 49, 48
+  orig: 64, 64
+  offset: 7, 6
+  index: -1
+Creep_B_f01
+  rotate: false
+  xy: 2, 205
+  size: 49, 49
+  orig: 64, 64
+  offset: 7, 6
+  index: -1
+Creep_B_f02
+  rotate: false
+  xy: 2, 154
+  size: 49, 49
+  orig: 64, 64
+  offset: 7, 6
+  index: -1
+Creep_B_f04
+  rotate: false
+  xy: 2, 103
+  size: 49, 49
+  orig: 64, 64
+  offset: 7, 6
+  index: -1
+Creep_B_f05
+  rotate: false
+  xy: 2, 52
+  size: 49, 49
+  orig: 64, 64
+  offset: 7, 6
+  index: -1
